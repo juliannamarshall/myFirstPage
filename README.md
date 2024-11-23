@@ -1,2 +1,2 @@
 # myFirstPage
-Hosted at: https://github.com/juliannamarshall/myFirstPage/blob/main/HTML%26CSSAssignmnet.html
+Hosted at: https://juliannamarshall.github.io/myFirstPage/HTML&CSSAssignmnet.html
